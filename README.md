@@ -39,7 +39,15 @@ export PATH=$PATH;caminho/para/Bump64/dist
 
 ## Utilização
 
-Para utilizar digite 
+Utilize digitando o comando "bump64" no seu terminal. Você pode adicionar seu texto codificado como argumento:
+```bash
+bump64 <texto codificado aqui>
+```
+Ou pode apenas executar o comando, e a ferramenta ira solicitar o texto codificado:
+```bash
+bump64
+Insira o texto codificado:
+```
 
 ## Licença
 Este projeto está sobre a licença MIT.
