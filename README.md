@@ -2,7 +2,7 @@
 
 > Ferramenta CLI simples para decodificar textos em base64 utilizando a biblioteca java.util.Base64.
 
-# Pre-requisitos
+## Pre-requisitos
 Este projeto foi construido sob a versão 21.0.11 do [JDK](https://www.oracle.com/java/technologies/downloads/).
 
 ## Instalação
