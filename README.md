@@ -34,7 +34,7 @@ No **windows**: No menu iniciar, pesquise por "path" → abra "Editar variáveis
 
 No **Linux**: Edite o arquivo "~/.bashrc" (se você utiliza bash) e adicione a seguinte linha:
 ```bash
-export PATH=$PATH;caminho/para/Bump64/dist
+export PATH=$PATH:caminho/para/Bump64/dist
 ```
 
 ## Utilização
